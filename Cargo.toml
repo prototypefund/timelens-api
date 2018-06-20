@@ -1,0 +1,8 @@
+[package]
+name = "demo"
+version = "0.1.0"
+authors = ["Sebastian Morr <sebastian@morr.cc>"]
+
+[dependencies]
+rocket = "0.3.13"
+rocket_codegen = "0.3.13"
